@@ -12,3 +12,6 @@ Comparing machine learning regression methods with traditional interpolation tec
 5. Neural Networks
 6. Light Gradient Boosting Machine
 7. Stochastic Variational Gaussian Process
+
+
+# Tests added in VSCODE
